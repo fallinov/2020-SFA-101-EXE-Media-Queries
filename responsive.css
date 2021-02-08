@@ -1,11 +1,53 @@
 /* Petis écrans <= 480px */
-
+@media only screen and (max-width: 480px) {
+    .extra {
+        display: none;
+    }
+} /* <= 480px */
 
 /* Ecrans moyens >= 481px */
+@media only screen and (min-width: 481px) {
 
+    .main {
+        display: inline-block;
+        width: 65%;
+        margin-right: 5%;
+    }
+    .secondary {
+        display: inline-block;
+        width: 30%;
+    }
+
+    .extra {
+        display: none;
+    }
+} /* >= 481px */
 
 /* Grands écrans >= 769px */
+@media only screen and (min-width: 769px) {
+    header{
+        overflow: auto;
+    }
+    .logo {
+        float: left;
+    }
+    .main-nav {
+        float: right;
+    }
 
+    .main {
+        width: 40%;
+    }
+    .extra {
+        display: inline-block;
+        width: 20%;
+        margin-left: 5%;
+    }
+} /* >= 769px */
 
 /* Très grand écrans >= 1024px */
-
+@media only screen and (min-width: 1024px) {
+    .wrap {
+        max-width: 980px;
+    }
+} /* >= 1024px */
