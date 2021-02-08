@@ -28,7 +28,7 @@ fichier** `responsive.css`.
 * Colonne « secondary » : 30%
 * Marge : 5%
 
-![Écran de 481px](_sources/481.px.png)
+![Écran de 481px](_sources/481px.png)
 
 ---
 ## Étape 3 - Version pour les écrans `> 768px`
