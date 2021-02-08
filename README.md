@@ -4,7 +4,7 @@ L'objectif de cet exercice et de découvrir et pratiquer les média queries CSS.
 
 Support de cours : https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1607616-utilisez-le-responsive-design-avec-les-media-queries
 
-Pour réaliser cet exercice, vous devez **uniquement modifier le code du 
+Pour réaliser cet exercice, vous devez **ajouter votre code dans
 fichier** `responsive.css`.
 
 [![Exemple de solution](https://img.youtube.com/vi/S_bMx44P6gs/0.jpg)](https://www.youtube.com/watch?v=S_bMx44P6gs)
@@ -28,7 +28,7 @@ fichier** `responsive.css`.
 * Colonne « secondary » : 30%
 * Marge : 5%
 
-![Écran de 481px](_sources/481.px.png)
+![Écran de 481px](_sources/481px.png)
 
 ---
 ## Étape 3 - Version pour les écrans `> 768px`
@@ -37,7 +37,7 @@ fichier** `responsive.css`.
 * L’élément « extra » est affiché.
 * Colonne « main » : 40%
 * Colonne « secondary » : 30%
-* Colonne « extra » : 20% 
+* Colonne « extra » : 20%
 * Marges : 5%
 * Le menu s’affiche à droite et le logo à gauche.
 
@@ -46,8 +46,8 @@ fichier** `responsive.css`.
 ---
 ## Étape 4 - Version pour les écrans `> 1023px`
 
-* Affichage sur trois colonnes 
-* L’élément « extra » est affiché. 
+* Affichage sur trois colonnes
+* L’élément « extra » est affiché.
 * Colonne « main » : 40%
 * Colonne « secondary » : 30%
 * Colonne « extra » : 20%
