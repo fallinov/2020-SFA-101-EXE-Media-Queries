@@ -2,7 +2,7 @@
 
 L'objectif de cet exercice et de découvrir et pratiquer les média queries CSS.
 
-Support de cours : https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1607616-utilisez-le-responsive-design-avec-les-media-queries
+Support de cours : [Utilisez le responsive design avec les Media Queries](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061510-utilisez-le-responsive-design-avec-les-media-queries)
 
 Pour réaliser cet exercice, vous devez **ajouter votre code dans
 fichier** `responsive.css`.
